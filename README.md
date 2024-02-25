@@ -1,3 +1,4 @@
+> [!NOTE]
 Spanish:
 
 
@@ -7,6 +8,7 @@ Simplemente cambiar los datos que se encuentran comentandos en el mensaje.client
 
 Para ejecutar el comando en FiveM, Abre el chat del juego y escribe /bienvenido (Si usted lo ha cambiado, utilize el nombre del comando que hayas puesto).
 
+> [!NOTE]
 English:
 
 Script for FiveM server that uses esx.
@@ -14,5 +16,6 @@ To display a personalized message through the command you want and the message y
 Simply change the data that is commented in the mensaje.client.lua with the ones you want to use
 To run the command in FiveM, Open the game chat and type /bienvenido (If you have changed it, use the name of the command you entered).
 
-<span>Test of script:<span>
-![Test of script](https://github.com/VillyCoder26/Personalizated-FiveM-Message/blob/main/c929d8d1-ef35-4729-a846-90191f53c47d.gif)
+> [TEST OF SCRIPT]
+> 
+> ![Test of script](https://github.com/VillyCoder26/Personalizated-FiveM-Message/blob/main/c929d8d1-ef35-4729-a846-90191f53c47d.gif)
